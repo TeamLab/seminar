@@ -3,5 +3,5 @@
 
 ## 2016년
 - (0919) PyCon2016 Review 
-    - [발표내용](자료링크), [발표자](발표자Github링크)
-    - [나의 사진은 내가 지난 과거에 한 일을 알고 있다](http://www.slideshare.net/ssuser2fe594/ss-64974166), [김진홍](https://github.com/goodvc78/vietnam-trip-picture-analysis)
+    - 발표주제([발표자](github)) - [발표자료](자료링크), [발표코드](발표코드링크)
+    - 나의 사진은 내가 지난 과거에 한 일을 알고 있다 ([김진홍](https://github.com/jinongkim)) - [발표자료](http://www.slideshare.net/ssuser2fe594/ss-64974166), [코드](https://github.com/goodvc78/vietnam-trip-picture-analysis) 
