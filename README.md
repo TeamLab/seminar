@@ -16,3 +16,5 @@
 
 ## 2017년
 - (0118) convolutional neural networks ([서자영](https://github.com/jayoungseo)) - [발표자료](https://www.slideshare.net/secret/4SNJOfBK7I7AuO), [발표코드](https://github.com/jayoungseo/seminar/blob/master/code/2017/0118/cnn_mnist.ipynb)
+
+- (0120) Recurrent neural networks ([이현주](https://github.com/hyoenju/)) - [발표자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb) 
