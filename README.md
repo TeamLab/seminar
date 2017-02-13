@@ -15,6 +15,12 @@
     - Word2vec, Doc2vec ([장시온](https://github.com/janguck/)) - [발표자료](https://github.com/janguck/doc2vec/blob/master/ppt/Text-mining.pptx), [코드](https://github.com/janguck/doc2vec/tree/master/code)
 
 ## 2017년
-- (0110)) Learning feature vectors for words ([김성철](https://github.com/SeongCheol-Kim)) - [발표자료](https://doc.co/utTRre), [발표코드](https://github.com/SeongCheol-Kim/seminar/tree/master/code/2017/0110)
+- (0110) Learning feature vectors for words ([김성철](https://github.com/SeongCheol-Kim)) - [발표자료](https://doc.co/utTRre), [발표코드](https://github.com/SeongCheol-Kim/seminar/tree/master/code/2017/0110)
+
 - (0118) convolutional neural networks ([서자영](https://github.com/jayoungseo)) - [발표자료](https://www.slideshare.net/secret/4SNJOfBK7I7AuO), [발표코드](https://github.com/jayoungseo/seminar/blob/master/code/2017/0118/cnn_mnist.ipynb)
-- (0125)) Learning feature vectors for words ([김성철](https://github.com/SeongCheol-Kim)) - [발표자료](https://doc.co/FoYkRT)
+
+- (0118) How to make the learning go faster ([김진홍](https://github.com/jinongkim)) - [발표자료](https://docs.com/user499853/7484c130-7925-4473-ba84-86a7e317e8a7/neuralnet-week6)
+
+- (0120) Recurrent neural networks ([이현주](https://github.com/hyoenju/)) - [발표자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb) 
+
+- (0125) Learning feature vectors for words ([김성철](https://github.com/SeongCheol-Kim)) - [발표자료](https://doc.co/FoYkRT)
