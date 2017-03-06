@@ -1,7 +1,7 @@
 # TeamLab Seminar
 본 Repository는 Tealab의 Seminar 내용을 관리하기 위해 생성되었습니다.
 2016년 가을학기 세미나 주제는 아래와 같습니다.
-- ML-Clustering ([Coursera](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+- ML-Clustering ([Coursera](https://www.coursera.org/learn/ml-clustering-and-retrieval))
 - Neural Networks for Machine Learning ([Coursera](https://www.coursera.org/learn/neural-networks))
 
 ## 2016년
@@ -24,3 +24,5 @@
 - (0120) Recurrent neural networks ([이현주](https://github.com/hyoenju/)) - [발표자료](https://www.slideshare.net/secret/oHWi95QYKsMuvH), [발표코드](https://github.com/hyoenju/seminar/blob/master/code/2017/0120/RNN_Basic.ipynb) 
 
 - (0125) Learning feature vectors for words ([김성철](https://github.com/SeongCheol-Kim)) - [발표자료](https://doc.co/FoYkRT)
+
+- (0131) Hopfield Networks for machine learning ([리세리](https://github.com/seriLucute)) - [발표자료](https://doc.co/FoYkRT)
