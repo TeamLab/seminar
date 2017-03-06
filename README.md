@@ -25,4 +25,4 @@
 
 - (0125) Learning feature vectors for words ([김성철](https://github.com/SeongCheol-Kim)) - [발표자료](https://doc.co/FoYkRT)
 
-- (0131) Hopfield Networks for machine learning ([리세리](https://github.com/seriLucute)) - [발표자료](https://doc.co/FoYkRT)
+- (0131) Hopfield Networks for machine learning ([리세리](https://github.com/seriLucute)) - [발표자료](http://www.slideshare.net/secret/Kdl5CrTBWMsAip)
